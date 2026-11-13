@@ -779,6 +779,9 @@
         "kimchi": {
           "$ref": "#/$defs/provider"
         },
+        "voyage": {
+          "$ref": "#/$defs/provider"
+        },
         "cloudflare": {
           "$ref": "#/$defs/provider_with_cloudflare_config"
         },
@@ -4624,7 +4627,8 @@
                         "cloudflare",
                         "byteplus",
                         "baseten",
-                        "kimchi"
+                        "kimchi",
+                        "voyage"
                       ]
                     },
                     "embedding_model": {

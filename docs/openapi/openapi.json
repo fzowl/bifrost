@@ -122368,7 +122368,8 @@
           "minimax",
           "byteplus",
           "baseten",
-          "kimchi"
+          "kimchi",
+          "voyage"
         ]
       },
       "Fallback": {

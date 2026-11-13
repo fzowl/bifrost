@@ -1,6 +1,7 @@
 ## ✨ Features
 
 - **Kimchi Provider** - New `kimchi` provider for chat, Responses, embeddings and list models
+- **Voyage AI Provider** - New `voyage` provider for text, contextualized and multimodal embeddings and rerank, with explicit model names and no default model
 
 ## 🐞 Fixed
 
